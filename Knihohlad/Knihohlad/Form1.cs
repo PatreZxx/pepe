@@ -210,5 +210,28 @@ namespace Knihohlad
             }
         }
 
+        private void buttonOdstranit_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=pleasework;";
+                string query = "DELETE FROM knihy WHERE nazov = \"" + Nazov.Text + "\"";
+                MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+                databaseConnection.Open();
+                MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+                commandDatabase.CommandTimeout = 60;
+                MySqlDataReader reader;
+                reader = commandDatabase.ExecuteReader();
+                while (reader.Read())
+                {
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            listBox1.Items.Clear();
+            db_connect();
+        }
     }
 }

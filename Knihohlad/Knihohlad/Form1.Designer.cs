@@ -344,8 +344,9 @@
             this.buttonOdstranit.Name = "buttonOdstranit";
             this.buttonOdstranit.Size = new System.Drawing.Size(284, 81);
             this.buttonOdstranit.TabIndex = 25;
-            this.buttonOdstranit.Text = "Pridaj";
+            this.buttonOdstranit.Text = "Odstraniť";
             this.buttonOdstranit.UseVisualStyleBackColor = false;
+            this.buttonOdstranit.Click += new System.EventHandler(this.buttonOdstranit_Click);
             // 
             // Form1
             // 
