@@ -1,0 +1,131 @@
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe.config
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.pdb
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.AssemblyReference.cache
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.SuggestedBindingRedirects.cache
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Form1.resources
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Properties.Resources.resources
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.GenerateResource.cache
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CoreCompileInputs.cache
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.exe
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.pdb
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.pdb
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CopyComplete
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe.config
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.pdb
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.pdb
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.AssemblyReference.cache
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Form1.resources
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Properties.Resources.resources
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.GenerateResource.cache
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CoreCompileInputs.cache
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CopyComplete
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.exe
+A:\code\c#\knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.pdb
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe.config
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Knihohlad.pdb
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\MySql.Data.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Buffers.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Memory.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\MySql.Data.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Buffers.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Memory.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.AssemblyReference.cache
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Form1.resources
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Properties.Resources.resources
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.GenerateResource.cache
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CoreCompileInputs.cache
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CopyComplete
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.exe
+C:\Users\Jakub V\Desktop\Knihohlad\Knihohlad\obj\Debug\Knihohlad.pdb
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe.config
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.exe
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Knihohlad.pdb
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\BouncyCastle.Crypto.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.pdb
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\Google.Protobuf.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\K4os.Hash.xxHash.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\MySql.Data.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Buffers.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Memory.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Numerics.Vectors.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.AssemblyReference.cache
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.SuggestedBindingRedirects.cache
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Form1.resources
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.Properties.Resources.resources
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.GenerateResource.cache
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CoreCompileInputs.cache
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.csproj.CopyComplete
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.exe
+D:\School_PC\PI1\Knihohlad\Knihohlad\Knihohlad\obj\Debug\Knihohlad.pdb
